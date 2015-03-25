@@ -1,0 +1,9 @@
+.img-circular{
+ width: 320px;
+ height: 180px;
+ background-size: fill;
+ display: inline;
+ border-radius: 1050px;
+ -webkit-border-radius: 10350px;
+ -moz-border-radius: 10350px;
+}
