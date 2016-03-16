@@ -182,6 +182,13 @@ h3 {
 
 .container > .copyright-notice {
     color: #BBB;
+    float: left;
+}
+
+.container > .cloudmine-notice {
+    color: #BBB;
+    float: right;
+    padding-right: 16px;
 }
 
 .projects-section {
@@ -308,7 +315,7 @@ h3 {
 }
 
 .copyright-container {
-    margin: 0 auto;
+    float: right;
 }
 
 .photo-attribution {
